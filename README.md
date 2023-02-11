@@ -4,7 +4,7 @@
 vagrant box add ubuntu/focal64
 ```
 
-> **always cause this error:
+> **always cause this error:**
 
 ```
 Traceback (most recent call last):
